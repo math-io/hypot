@@ -7,7 +7,7 @@ hypot
 The square root of a sum of squares is defined as
 
 <div class="equation" align="center" data-raw-text="h = \sqrt{a^2 + b^2}" data-equation="eq:hypot">
-	<img src="" alt="hypot equation definition.">
+	<img src="https://cdn.rawgit.com/math-io/hypot/62cb5f5e0076db6b3eb81ea2856738a891c925d0/docs/img/eqn.svg" alt="hypot equation definition.">
 	<br>
 </div>
 
